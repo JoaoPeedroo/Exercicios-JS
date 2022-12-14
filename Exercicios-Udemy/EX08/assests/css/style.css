@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
 :root {
-    --primary-color: aquamarine;
+    --primary-color: rgb(17, 86, 102);
     --primary-color-dark: rgba(87, 167, 140, 0.162);
 }
 
